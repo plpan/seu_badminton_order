@@ -1,7 +1,18 @@
 # SEU Order
 
-This project is used to order badminton in SEU, as well as any other activity held by gym.
+Order space for SEU sport
 
-Before using this script, you should change it with filling you USERNAME, PASSWORD, PHONE_NUMBER, and the sports you wanna order. Don't forget to fill you partner's id when you are ordering badminton or any other projects require at least two people.
+Before starting up this script, you should fill three fields:
+- USERNAME-
+- PASSWORD
+- PHONE_NUMBER
 
-Your partner's is can be viewed through Wireshark. If you do not have it, then install this software at first.
+as well as the sports you wanna order.
+
+Don't forget to fill you partner's id when you are ordering badminton or any other projects require at least two people.
+
+##
+
+If you wanna order badminton with your partner, then you'd provide his id which can get from Wireshark.
+
+If you do not have Wireshark, then install this software at first.
